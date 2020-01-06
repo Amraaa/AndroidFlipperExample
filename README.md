@@ -1,0 +1,2 @@
+# AndroidFlipperExample
+Practicing android applications
